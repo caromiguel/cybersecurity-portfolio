@@ -1,0 +1,26 @@
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Secrets and environment files
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+secrets.*
+
+# Logs and packet captures
+*.log
+*.pcap
+*.pcapng
+
+# Archives and temporary files
+*.zip
+*.7z
+*.tmp
